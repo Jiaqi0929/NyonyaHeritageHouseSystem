@@ -1,81 +1,63 @@
-# Nyonya Heritage House Food Ordering and Reservation System
-This project is a **restaurant management system** for Nyonya Heritage House that allows customers to place food orders, make reservations, and enables staff to manage orders, reservations, and customer information efficiently. The system is built using **C++** and demonstrates the use of file handling, data structures, and object-oriented programming.
+# Nyonya Heritage House Food Ordering & Reservation System
 
----
+This project is a restaurant management system for Nyonya Heritage House that allows customers to place food orders, make reservations, and enables staff to manage orders, reservations, and customer information efficiently. The system is built using C++ and demonstrates the use of file handling, data structures, and object-oriented programming.
 
-## 1. Software Requirement
-- **Code::Blocks IDE**
-- **C++ Compiler (MinGW / GNU GCC)**
+## ✨ Features
 
-Make sure Code::Blocks is installed with a working C++ compiler.
+### Customer Panel:
+- Register/Login to account
+- Browse menu items
+- Place food orders
+- Make table reservations
 
----
+### Admin Panel:
+- Secure admin login
+- Add, update, or remove menu items
+- View all customer orders
+- Manage reservations
 
-## 2. How to Open the Project
+## 🛠️ Technologies Used
+- **Language:** C++
+- **Concepts:** OOP (Classes, Inheritance, Polymorphism)
+- **Data Structures:** Linked Lists, Queues
+- **Algorithms:** Bubble Sort, Linear Search
+- **Data Storage:** File handling (text files)
 
-1. Extract the project folder if it is in a `.zip` file.
-2. Open **Code::Blocks**.
-3. Click **File → Open**.
-4. Navigate to the project folder.
-5. Open the project file: Lab1B_Group05.cbp
-
-This file will automatically load all source files into Code::Blocks.
-
----
-
-## 3. How to Run the Program
-
-1. After opening the `.cbp` project file, click **Build and Run**.
-
-   **OR**
-
-2. Press the shortcut: F9
-
-Code::Blocks will:
-- Compile all `.cpp` files
-- Build the program
-- Run the system in the console.
-
----
-
-## 4. Required Data Files
-
-The following text files must remain in the **same folder as the project** because the program reads data from them:
-- customers.txt
-- menu.txt
-- orders.txt
--reservations.txt
-
-These files store system data such as customers, menu items, orders, and reservations.
-
----
-
-## 5. Program Output
-
-- The system runs in the **console window**.
-- When orders are completed, **receipt files** may be generated automatically such as: receipt_*.txt
-
-These receipts will appear in the project folder.
-
----
-
-## 6. Project Structure
-
-Important files in the project:
+## 📁 Project Structure
 
 | File / Component | Description |
 |------------------|-------------|
-| `main.cpp` | Main program execution |
-| Customer / User Classes | Manage customer accounts |
-| OrderManager | Handle food orders |
+| main.cpp | Program entry point |
+| Customer.cpp / .h | Customer account management |
+| OrderManager.cpp / .h | Order processing logic |
+| Reservation.cpp / .h | Reservation handling |
+| MenuItem.cpp / .h | Menu management |
+| utils.cpp / .h | Helper functions |
 | LinkedList / Queue | Data structures used in the system |
-| Utilities | Helper functions |
+| customers.txt | Customer database |
+| menu.txt | Menu items |
+| orders.txt | Order records |
+| reservations.txt | Reservation records |
 
----
+## 🔧 How to Run
 
-## Notes
-- The program uses **file handling** to store and retrieve system data.  
-- Demonstrates **object-oriented programming concepts** such as classes, inheritance, and polymorphism.  
+1. **Software Requirement:** Code::Blocks IDE with a C++ compiler (MinGW / GNU GCC).
+2. Extract the project folder if it is in a .zip file.
+3. Open Code::Blocks.
+4. Click **File → Open** and navigate to the project folder.
+5. Open the project file: `Lab1B_Group05.cbp` (this will load all source files).
+6. Press `F9` or click **Build → Build and Run**.
+7. Ensure all `.txt` data files (`customers.txt`, `menu.txt`, `orders.txt`, `reservations.txt`) remain in the same folder as the executable.
+8. When orders are completed, receipt files (`receipt_*.txt`) will be generated in the project folder.
 
+## 💡 What I Learned
+- Implementing sorting and searching algorithms (bubble sort, linear search) in a real-world application
+- Designing separate interfaces for different user types (customer vs admin)
+- Managing data persistence through file handling
+- Building a complete system from scratch using OOP principles
+- Using linked lists and queues to manage data efficiently
 
-
+## 📝 Note
+- The program uses file handling to store and retrieve system data.
+- All source code is available in this repository.
+- Receipts are generated automatically upon order completion.
