@@ -1,0 +1,13 @@
+		======== NYONYA HERITAGE HOUSE RECEIPT ========
+		Customer: LJS
+		Date: Jan 26 2026 Time: 02:22:37
+		--------------------------------------------------
+		Subtotal: RM 37.00
+		Service Tax (10%): RM 3.70
+		Grand Total: RM 40.70
+		Payment Method: Credit/Debit Card
+		Reference: CARD27453
+		Payment Status: PAID
+		==================================================
+		Thank you for dining with us!
+		We hope to serve you again soon!

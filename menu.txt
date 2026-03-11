@@ -1,0 +1,22 @@
+[FOOD]
+Ayam Pongteh|25.00|F
+Nyonya Laksa|18.00|F
+Chap Chye|15.00|F
+Sambal Belacan|20.00|F
+Otak-Otak|23.00|F
+Ayam Buah Keluak|25.00|F
+Udang Lemak Nanas|30.00|F
+Nyonya Popiah|10.00|F
+Asam Pedas|23.00|F
+Nyonya Chicken Curry|23.00|F
+[BEVERAGE]
+Nyonya kopi|3.50|H|B
+Sirap bandung|4.00|C|B
+Cendol|9.00|C|B
+Bubur Cha Cha|7.00|H|B
+Nyonya teh|3.50|H|B
+Kedondong Asam Boi|6.50|C|B
+Bubur Pulut Hitam|7.00|H|B
+Limau ais|5.00|C|B
+Air kelapa|8.00|C|B
+Barli ais|5.00|C|B

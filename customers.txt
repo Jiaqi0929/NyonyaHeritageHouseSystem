@@ -1,0 +1,5 @@
+LJS|qwe123|Lim Jia Shyuan|LJS@gmail.com|0127099178|0|1
+LJQ|qwe123|Lim Jia Qi|LJQ@hotmail.com|01118541688|0|1
+KKS|qwe123|Ko Shan Si|KKS@yahoo.com|0179715128|0|1
+KKX|qwe123|Koh Kai Xin|KKX@gmail.com|0167817632|0|1
+kaixin|qwe123|kkx|kx13@gmail.com|0123456789|0|1
