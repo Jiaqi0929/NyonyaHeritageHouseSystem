@@ -1,4 +1,7 @@
 # Nyonya Heritage House Food Ordering and Reservation System
+This project is a **restaurant management system** for Nyonya Heritage House that allows customers to place food orders, make reservations, and enables staff to manage orders, reservations, and customer information efficiently. The system is built using **C++** and demonstrates the use of file handling, data structures, and object-oriented programming.
+
+---
 
 ## 1. Software Requirement
 - **Code::Blocks IDE**
@@ -71,9 +74,8 @@ Important files in the project:
 ---
 
 ## Notes
-- Ensure all required `.txt` files are present before running the program.
-- The program uses **file handling** to store and retrieve system data.
-
+- The program uses **file handling** to store and retrieve system data.  
+- Demonstrates **object-oriented programming concepts** such as classes, inheritance, and polymorphism.  
 
 
 
