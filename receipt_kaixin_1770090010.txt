@@ -1,0 +1,13 @@
+		======== NYONYA HERITAGE HOUSE RECEIPT ========
+		Customer: kaixin
+		Date: Jan 26 2026 Time: 02:22:37
+		--------------------------------------------------
+		Subtotal: RM 309.00
+		Service Tax (10%): RM 30.90
+		Grand Total: RM 339.90
+		Payment Method: Credit/Debit Card
+		Reference: CARD37643
+		Payment Status: PAID
+		==================================================
+		Thank you for dining with us!
+		We hope to serve you again soon!

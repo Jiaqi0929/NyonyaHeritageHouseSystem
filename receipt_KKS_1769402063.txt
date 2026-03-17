@@ -1,0 +1,13 @@
+		======== NYONYA HERITAGE HOUSE RECEIPT ========
+		Customer: KKS
+		Date: Jan 26 2026 Time: 02:22:37
+		--------------------------------------------------
+		Subtotal: RM 86.00
+		Service Tax (10%): RM 8.60
+		Grand Total: RM 94.60
+		Payment Method: Online Payment
+		Reference: ONL10302
+		Payment Status: PAID
+		==================================================
+		Thank you for dining with us!
+		We hope to serve you again soon!

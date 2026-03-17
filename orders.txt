@@ -1,0 +1,11 @@
+Nyonya kopi|3.500000|1|Mon Jan 26 12:31:37 2026|LJQ|0|0
+Nyonya teh|3.500000|2|Mon Jan 26 12:29:21 2026|LJS|1|0
+Bubur Cha Cha|7.000000|3|Mon Jan 26 12:34:59 2026|KKX|0|0
+Bubur Cha Cha|7.000000|2|Mon Jan 26 12:31:12 2026|LJQ|0|0
+Chap Chye|15.000000|2|Mon Jan 26 12:29:13 2026|LJS|0|0
+Sambal Belacan|20.000000|2|Mon Jan 26 12:32:50 2026|KKS|0|0
+Asam Pedas|23.000000|2|Mon Jan 26 12:31:05 2026|LJQ|0|0
+Otak-Otak|23.000000|2|Mon Jan 26 12:33:01 2026|KKS|0|0
+Otak-Otak|23.000000|3|Mon Jan 26 12:30:57 2026|LJQ|0|0
+Otak-Otak|23.000000|8|Tue Feb 03 11:37:35 2026|kaixin|0|0
+Ayam Pongteh|25.000000|5|Tue Feb 03 11:37:30 2026|kaixin|0|0
